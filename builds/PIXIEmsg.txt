@@ -1,0 +1,200 @@
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+*ERROR* (Pixie_Scan_Crate_Slots): Failed to measure host computer speed (ns per cycle), retval = -1
+*ERROR* (Pixie_Boot_System): Scanning crate slots unsuccessful.
+*ERROR* (Pixie_Scan_Crate_Slots): Failed to measure host computer speed (ns per cycle), retval = -1
+*ERROR* (Pixie_Boot_System): Scanning crate slots unsuccessful.
+*ERROR* (Pixie_Scan_Crate_Slots): Failed to measure host computer speed (ns per cycle), retval = -1
+*ERROR* (Pixie_Boot_System): Scanning crate slots unsuccessful.
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+*ERROR* (Pixie_Scan_Crate_Slots): Failed to measure host computer speed (ns per cycle), retval = -1
+*ERROR* (Pixie_Boot_System): Scanning crate slots unsuccessful.
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
+Module 0, Revision = 3
+Module 0 in slot 2 started up successfully!
